@@ -27,7 +27,7 @@ Replace `line 8` with the absolute path to the processing file.
 
 ==============================================================
 
-##NOTE: Make sure to have python installed with `pip` in path in order to install the required packages.
+## NOTE: Make sure to have python installed with `pip` in path in order to install the required packages.
 
 
 ## **Ciao**

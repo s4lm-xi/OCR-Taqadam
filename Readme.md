@@ -21,7 +21,7 @@ Follow the instructions for installation and finish when done.
 
 When done replace `line 43` in `main.py` with the correct path to the tesseract ocr that you just installed
 
-###Also
+### Also
 
 Replace `line 8` with the absolute path to the processing file.
 
